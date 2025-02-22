@@ -1,12 +1,16 @@
-{"produits":[
+{
+  "products": [
     {
-
-   
-    "code": "123",
-    "description": "Eliseo@gardner.biz",
-    "prix": "1200",
-    "date":"12/05/2002"
-    
-  }
-]
+      "id": 1,
+      "code": "P001",
+      "designation": "Produit 1",
+      "prix": 10.99
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "designation": "Produit 2",
+      "prix": 20
+    }
+  ]
 }
